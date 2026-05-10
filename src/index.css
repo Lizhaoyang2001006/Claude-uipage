@@ -10,3 +10,7 @@
   --color-fg-muted: #a8a29e;
   --font-family-sans: "Inter", "system-ui", sans-serif;
 }
+
+html {
+  scroll-behavior: smooth;
+}

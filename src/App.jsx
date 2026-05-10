@@ -33,7 +33,7 @@ export default function App() {
   }, [])
 
   return (
-    <div className="scroll-smooth">
+    <div>
       <NavBar activeSection={activeSection} />
       <main>
         <Hero />
